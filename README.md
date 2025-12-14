@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Efrat Shalom
 
-## 🚀 Software Developer | AI Enthusiast | LIDAR Systems Expert
+## 🚀 Software Developer | AI Enthusiast
 
 I'm a passionate software developer with expertise in automation development and AI specialization. Currently working on cutting-edge LIDAR technology at INNOVIZ, where I develop high-quality software solutions and maintain rigorous testing standards.
 
