@@ -30,7 +30,7 @@ I'm a passionate software developer with expertise in automation development and
 - Python libraries: numpy, pandas, matplotlib, OpenCV
 
 ### 💼 Current Role
-**Software Developer at INNOVIZ (2025)**
+**Automation Developer at INNOVIZ (2025)**
 - Developing C code in CANTATA environment
 - Writing integration and unit tests for LIDAR systems
 - Implementing CI/CD processes with Jenkins
